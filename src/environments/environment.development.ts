@@ -1,1 +1,4 @@
-export const environment = {};
+export const environment = {
+  endpoint: 'https://fakestoreapi.com',
+  production: false,
+};
